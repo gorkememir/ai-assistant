@@ -1,3 +1,4 @@
 .env
 embeddings*
 *.zip
+*venv*
